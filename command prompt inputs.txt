@@ -1,0 +1,6 @@
+directions:
+https://scribetools.readthedocs.io/en/latest/schemaspy/
+
+_______________________________________
+
+java -jar schemaspy-6.1.0-SNAPSHOT.jar -t sqlite -db FDHI_Layout_ph8_rev0_20190410.db -sso -dp C:\Users\starb\Desktop\schemaspy\ -o C:\Users\starb\Desktop\schemaspy -cat FDHI_Layout_ph8_rev0_20190410 -s FDHI_Layout_ph8_rev0_20190410 -vizjs -debug
